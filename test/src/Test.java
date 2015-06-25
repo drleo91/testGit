@@ -5,6 +5,8 @@ public class Test {
     public void manam(){
                 System.out.println("che haal, che khabar!");
 
+        System.out.println("remote!!!");
+
         System.out.println("manam");
     }
 
