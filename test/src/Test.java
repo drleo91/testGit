@@ -6,4 +6,8 @@ public class Test {
         System.out.println("manam");
     }
 
+    public static void main(String[] args) {
+        System.out.println("another branch");
+        System.out.println("here");
+    }
 }
