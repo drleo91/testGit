@@ -8,6 +8,7 @@ public class Test {
 
     public void eune(){
       System.out.printf("euuuuuuuuuuuuuune") ;
+      System.out.println();
     }
     public static void main(String[] args) {
         System.out.println("here");
