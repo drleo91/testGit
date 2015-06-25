@@ -7,6 +7,7 @@ public class Test {
 
         System.out.println("remote!!!");
 
+        System.out.println("mahallie");
         System.out.println("manam");
     }
 
