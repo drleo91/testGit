@@ -8,6 +8,8 @@ public class Test {
         System.out.println("remote!!!");
 
         System.out.println("manam");
+                System.out.println("hello there!!!");
+
     }
 
     public void eune(){
