@@ -6,6 +6,9 @@ public class Test {
         System.out.println("manam");
     }
 
+    public void eune(){
+        
+    }
     public static void main(String[] args) {
         System.out.println("here");
     }
