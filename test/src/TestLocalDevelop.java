@@ -6,5 +6,7 @@ public class TestLocalDevelop {
 
         System.out.println("salam amu");
         System.out.println("khodahafez");
+        System.out.println("salam");
+        System.out.println("dorud");
     }
 }
