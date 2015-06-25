@@ -7,7 +7,7 @@ public class Test {
     }
 
     public void eune(){
-        
+      System.out.printf("euuuuuuuuuuuuuune") ;
     }
     public static void main(String[] args) {
         System.out.println("here");
